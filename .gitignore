@@ -1,0 +1,31 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Teaching notebooks and documents
+*.ipynb
+docs/
+START_HERE.html
+PHASE2_START_HERE.md
+PHASE3_START_HERE.md
+
+# Optional planning and convenience files
+config/
+RUN_PHASE2_WINDOWS.bat
+RUN_PHASE3_WINDOWS.bat
+
+# Generated and historical results
+outputs/
+reference_runs/
+
+# Local editor settings and secrets
+.vscode/
+.idea/
+.env
+.env.*
+
+# Archives
+*.zip

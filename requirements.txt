@@ -1,0 +1,6 @@
+networkx==3.4.2
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+dimod==0.12.22
+dwave-samplers==1.8.0
